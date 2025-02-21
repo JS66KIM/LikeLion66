@@ -10,9 +10,16 @@ namespace LikeLion2
     {
         static void Main(string[] args)
         {
-            int age;
-            age = 26;
-            Console.Write(age);
+            int hp = 100;
+            double att = 56.7;
+            string name = "JS66";
+            char rank = 'S';
+
+            Console.WriteLine(hp);
+            Console.WriteLine(att);
+            Console.WriteLine(name);
+            Console.WriteLine(rank);
+
         }
     }
 }

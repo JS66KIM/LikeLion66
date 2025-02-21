@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Likelion66_C#\LikeLion66_C-\Loading_story\Loading_story\obj\Debug\Loading_story.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Likelion66_C#\LikeLion66_C-\Loading_story\Loading_story\obj\Debug\Loading_story.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Likelion66_C#\LikeLion66_C-\Loading_story\Loading_story\bin\Debug\Loading_story.exe.config
+C:\Users\Admin\Desktop\Likelion66_C#\LikeLion66_C-\Loading_story\Loading_story\bin\Debug\Loading_story.exe
+C:\Users\Admin\Desktop\Likelion66_C#\LikeLion66_C-\Loading_story\Loading_story\bin\Debug\Loading_story.pdb
+C:\Users\Admin\Desktop\Likelion66_C#\LikeLion66_C-\Loading_story\Loading_story\obj\Debug\Loading_story.exe
+C:\Users\Admin\Desktop\Likelion66_C#\LikeLion66_C-\Loading_story\Loading_story\obj\Debug\Loading_story.pdb

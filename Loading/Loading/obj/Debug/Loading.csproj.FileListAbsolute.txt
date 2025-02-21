@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Likelion66_C#\LikeLion66_C-\Loading\Loading\bin\Debug\Loading.exe.config
+C:\Users\Admin\Desktop\Likelion66_C#\LikeLion66_C-\Loading\Loading\bin\Debug\Loading.exe
+C:\Users\Admin\Desktop\Likelion66_C#\LikeLion66_C-\Loading\Loading\bin\Debug\Loading.pdb
+C:\Users\Admin\Desktop\Likelion66_C#\LikeLion66_C-\Loading\Loading\obj\Debug\Loading.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Likelion66_C#\LikeLion66_C-\Loading\Loading\obj\Debug\Loading.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Likelion66_C#\LikeLion66_C-\Loading\Loading\obj\Debug\Loading.exe
+C:\Users\Admin\Desktop\Likelion66_C#\LikeLion66_C-\Loading\Loading\obj\Debug\Loading.pdb
